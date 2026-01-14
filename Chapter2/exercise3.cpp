@@ -9,7 +9,7 @@ void chapter2_exercise3() {
 	int n1 = 10, n2 = 10;
 	int n3 = n1 + n2;
 
-	cout << n << endl << n3 << endl << --n3 << endl;
+	cout << n << endl << n3 << endl << n3-- << endl;
 
 
 }

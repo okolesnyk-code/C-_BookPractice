@@ -28,5 +28,5 @@ void chapter2_exercise11() {
         << setw(20) << "Khreshchatyk 21"
         << setw(20) << "Dnipro" << endl;
 
-    return 0;
+
 }

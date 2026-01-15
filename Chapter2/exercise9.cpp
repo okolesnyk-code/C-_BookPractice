@@ -17,5 +17,5 @@ void chapter2_exercise9() {
 
     cout << "Sum: " << numerator << "/" << denominator << endl;
 
-    return 0;
+  
 }

@@ -23,6 +23,6 @@ void chapter2_exercise10() {
     cout << fixed << setprecision(2);
     cout << "Decimal pounds: " << decimalPounds << endl;
 
-    return 0;
+   
 
 }

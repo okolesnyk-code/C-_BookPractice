@@ -3,6 +3,7 @@
 using namespace std;
 
 void chapter2_exercise1() {
+
     SetConsoleCP(65001);        // Кодування для введення з клавіатури (CP1251 – для кирилиці)
     SetConsoleOutputCP(65001);  // Кодування для виведення на консоль
 

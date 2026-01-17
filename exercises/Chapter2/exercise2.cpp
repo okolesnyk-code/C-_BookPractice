@@ -1,3 +1,4 @@
+#include "exercise2.h"
 #include <iomanip>
 #include <iostream>
 using namespace std;

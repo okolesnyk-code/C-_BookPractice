@@ -1,3 +1,4 @@
+#include "exercise10.h"
 #include <iostream>
 #include <iomanip> // for std::setprecision
 using namespace std;

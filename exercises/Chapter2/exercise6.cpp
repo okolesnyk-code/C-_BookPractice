@@ -1,3 +1,4 @@
+#include "exercise6.h"
 #include <iostream>
 #include <windows.h>
 

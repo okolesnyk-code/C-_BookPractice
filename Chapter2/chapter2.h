@@ -12,3 +12,5 @@
 #include "exercise10.h"
 #include "exercise11.h"
 #include "exercise12.h"
+
+void chapter2_menu();

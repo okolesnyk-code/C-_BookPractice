@@ -3,7 +3,7 @@
 
 using namespace std;
 
-chapter2_exercise12() {
+void chapter2_exercise12() {
 
     float decPounds;
     int pounds, shillings, pence;

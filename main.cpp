@@ -1,7 +1,7 @@
 #include <iostream>
 
 // Підключаємо заголовки меню всіх глав
-#include "chapter2.h"
+#include "exercises/Chapter2/chapter2.h"
 
 // ... далі підключати інші глави до chapter16.h
 

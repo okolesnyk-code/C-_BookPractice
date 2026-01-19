@@ -8,7 +8,7 @@ using namespace std;
 void chapter2_exercise4() {
 
 	SetConsoleCP(65001);
-	SetConsoleOutCP(65001);
+	SetConsoleOutputCP(65001);
 
 
 

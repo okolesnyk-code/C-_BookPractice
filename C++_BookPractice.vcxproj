@@ -145,6 +145,7 @@
     <ClInclude Include="Chapter3\exercise2.h" />
     <ClInclude Include="Chapter3\exercise3.h" />
     <ClInclude Include="Chapter3\exercise4.h" />
+    <ClInclude Include="Chapter3\exercise5.h" />
     <ClInclude Include="exercises\Chapter2\chapter2.h" />
     <ClInclude Include="exercises\Chapter2\exercise1.h" />
     <ClInclude Include="exercises\Chapter2\exercise10.h" />
@@ -178,6 +179,7 @@
     <ClCompile Include="Chapter3\exercise2.cpp" />
     <ClCompile Include="Chapter3\exercise3.cpp" />
     <ClCompile Include="Chapter3\exercise4.cpp" />
+    <ClCompile Include="Chapter3\exercise5.cpp" />
     <ClCompile Include="exercises\Chapter2\chapter2_menu.cpp" />
     <ClCompile Include="exercises\Chapter2\exercise1.cpp" />
     <ClCompile Include="exercises\Chapter2\exercise10.cpp" />

@@ -1,4 +1,4 @@
-#include "exercise3.h"
+#include "chapter3_exercise3.h"
 #include <iostream>
 #include <conio.h>
 #include <cstdlib>

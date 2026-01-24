@@ -1,4 +1,4 @@
-#include "exercise7.h"
+#include "chapter3_exercise7.h"
 #include <iostream>
 #include <cmath>
 

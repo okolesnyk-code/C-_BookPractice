@@ -1,4 +1,4 @@
-#include "exercise2.h"
+#include "chapter3_exercise2.h"
 #include <iostream>
 #include <cstdlib>
 

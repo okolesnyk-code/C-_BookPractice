@@ -1,4 +1,4 @@
-#include "exercise12.h"
+#include "chapter3_exercise12.h"
 #include <iostream>
 
 void chapter3_exercise12() {

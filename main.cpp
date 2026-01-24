@@ -13,14 +13,14 @@ int main()
 
     while (true)
     {
-        std::cout << "\nSelect chapter to view:\n";
+        std::cout << "\nSelect chapter to view:\n\n";
         std::cout << "2 - Chapter 2\n";
         std::cout << "3 - Chapter 3\n";
         //std::cout << "3 - Chapter 3\n";
         // ... додати до 16 глави
         std::cout << "0 - Exit\n";
 
-        std::cout << "Enter choice: ";
+        std::cout << "\nEnter choice: ";
         std::cin >> chapterChoice;
 
         switch (chapterChoice)

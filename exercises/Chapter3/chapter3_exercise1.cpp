@@ -1,5 +1,5 @@
 #include "chapter3_exercise1.h"
-#include <iostrem>
+#include <iostream>
 #include <iomanip>
 #include <string>
 using namespace std;

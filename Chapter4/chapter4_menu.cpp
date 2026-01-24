@@ -8,7 +8,7 @@ void chapter3_menu()
 
     while (choice != 0)
     {
-        std::cout << "\nChapter 3\n";
+        std::cout << "\nChapter 4\n";
         std::cout << "----------------\n";
         std::cout << "1 - Exercise 1\n";
         std::cout << "2 - Exercise 2\n";

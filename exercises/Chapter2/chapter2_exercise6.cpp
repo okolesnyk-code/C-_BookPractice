@@ -1,4 +1,4 @@
-#include "exercise6.h"
+#include "chapter2_exercise6.h"
 #include <iostream>
 #include <windows.h>
 

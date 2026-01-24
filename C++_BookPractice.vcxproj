@@ -127,19 +127,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-	<ClInclude Include="exercises\Chapter2\chapter2.h" />
-    <ClInclude Include="exercises\Chapter2\exercise1.h" />
-    <ClInclude Include="exercises\Chapter2\exercise10.h" />
-    <ClInclude Include="exercises\Chapter2\exercise11.h" />
-    <ClInclude Include="exercises\Chapter2\exercise12.h" />
-    <ClInclude Include="exercises\Chapter2\exercise2.h" />
-    <ClInclude Include="exercises\Chapter2\exercise3.h" />
-    <ClInclude Include="exercises\Chapter2\exercise4.h" />
-    <ClInclude Include="exercises\Chapter2\exercise5.h" />
-    <ClInclude Include="exercises\Chapter2\exercise6.h" />
-    <ClInclude Include="exercises\Chapter2\exercise7.h" />
-    <ClInclude Include="exercises\Chapter2\exercise8.h" />
-    <ClInclude Include="exercises\Chapter2\exercise9.h" />
+    <ClInclude Include="exercises\Chapter2\chapter2.h" />
+    <ClInclude Include="exercises\Chapter2\chapter2_exercise1.h" />
+    <ClInclude Include="exercises\Chapter2\chapter2_exercise10.h" />
+    <ClInclude Include="exercises\Chapter2\chapter2_exercise11.h" />
+    <ClInclude Include="exercises\Chapter2\chapter2_exercise12.h" />
+    <ClInclude Include="exercises\Chapter2\chapter2_exercise2.h" />
+    <ClInclude Include="exercises\Chapter2\chapter2_exercise3.h" />
+    <ClInclude Include="exercises\Chapter2\chapter2_exercise4.h" />
+    <ClInclude Include="exercises\Chapter2\chapter2_exercise5.h" />
+    <ClInclude Include="exercises\Chapter2\chapter2_exercise6.h" />
+    <ClInclude Include="exercises\Chapter2\chapter2_exercise7.h" />
+    <ClInclude Include="exercises\Chapter2\chapter2_exercise8.h" />
+    <ClInclude Include="exercises\Chapter2\chapter2_exercise9.h" />
     <ClInclude Include="exercises\Chapter3\chapter3.h" />
     <ClInclude Include="exercises\Chapter3\exercise1.h" />
     <ClInclude Include="exercises\Chapter3\exercise10.h" />
@@ -156,18 +156,18 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="exercises\Chapter2\chapter2_menu.cpp" />
-    <ClCompile Include="exercises\Chapter2\exercise1.cpp" />
-    <ClCompile Include="exercises\Chapter2\exercise10.cpp" />
-    <ClCompile Include="exercises\Chapter2\exercise11.cpp" />
-    <ClCompile Include="exercises\Chapter2\exercise12.cpp" />
-    <ClCompile Include="exercises\Chapter2\exercise2.cpp" />
-    <ClCompile Include="exercises\Chapter2\exercise3.cpp" />
-    <ClCompile Include="exercises\Chapter2\exercise4.cpp" />
-    <ClCompile Include="exercises\Chapter2\exercise5.cpp" />
-    <ClCompile Include="exercises\Chapter2\exercise6.cpp" />
-    <ClCompile Include="exercises\Chapter2\exercise7.cpp" />
-    <ClCompile Include="exercises\Chapter2\exercise8.cpp" />
-    <ClCompile Include="exercises\Chapter2\exercise9.cpp" />
+    <ClCompile Include="exercises\Chapter2\chapter2_exercise1.cpp" />
+    <ClCompile Include="exercises\Chapter2\chapter2_exercise10.cpp" />
+    <ClCompile Include="exercises\Chapter2\chapter2_exercise11.cpp" />
+    <ClCompile Include="exercises\Chapter2\chapter2_exercise12.cpp" />
+    <ClCompile Include="exercises\Chapter2\chapter2_exercise2.cpp" />
+    <ClCompile Include="exercises\Chapter2\chapter2_exercise3.cpp" />
+    <ClCompile Include="exercises\Chapter2\chapter2_exercise4.cpp" />
+    <ClCompile Include="exercises\Chapter2\chapter2_exercise5.cpp" />
+    <ClCompile Include="exercises\Chapter2\chapter2_exercise6.cpp" />
+    <ClCompile Include="exercises\Chapter2\chapter2_exercise7.cpp" />
+    <ClCompile Include="exercises\Chapter2\chapter2_exercise8.cpp" />
+    <ClCompile Include="exercises\Chapter2\chapter2_exercise9.cpp" />
     <ClCompile Include="exercises\Chapter3\chapter3_menu.cpp" />
     <ClCompile Include="exercises\Chapter3\exercise1.cpp" />
     <ClCompile Include="exercises\Chapter3\exercise10.cpp" />

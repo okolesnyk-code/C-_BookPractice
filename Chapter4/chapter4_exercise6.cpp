@@ -1,3 +1,4 @@
+#include "chapter4_exercise6.h"
 #include <iostream>
 using namespace std;
 

@@ -2,7 +2,7 @@
 #include "chapter4.h"
 
 
-void chapter3_menu()
+void chapter4_menu()
 {
     int choice = -1;
 

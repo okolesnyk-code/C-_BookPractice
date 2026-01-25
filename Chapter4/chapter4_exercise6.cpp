@@ -21,6 +21,7 @@ void chapter4_exercise6() {
     default:
         cout << "Invalid input!" << endl;
         // вихід з програми при помилці
+        return;
     }
 
     // Виводимо повну назву посади

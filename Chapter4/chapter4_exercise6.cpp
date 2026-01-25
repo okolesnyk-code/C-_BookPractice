@@ -20,7 +20,7 @@ void chapter4_exercise6() {
     case 'r': position = researcher; break;
     default:
         cout << "Invalid input!" << endl;
-        return 1; // вихід з програми при помилці
+        // вихід з програми при помилці
     }
 
     // Виводимо повну назву посади

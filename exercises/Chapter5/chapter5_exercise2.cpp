@@ -3,7 +3,7 @@
 using namespace std;
 
 // Function declaration (prototype)
-double power(double n, int p = 2);
+double power_exercise2(double n, int p = 2);
 
 // Exercise function
 void chapter5_exercise2()
@@ -20,15 +20,15 @@ void chapter5_exercise2()
     double result;
 
     if (p == 0)
-        result = power(n);        // uses default power = 2
+        result = power_exercise2(n);        // uses default power = 2
     else
-        result = power(n, p);
+        result = power_exercise2(n, p);
 
     cout << "Result: " << result << endl;
 }
 
 // Function definition
-double power(double n, int p)
+double power_exercise2(double n, int p)
 {
     double result = 1.0;
 

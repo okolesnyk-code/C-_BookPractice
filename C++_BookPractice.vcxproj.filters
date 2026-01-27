@@ -93,6 +93,45 @@
     <ClInclude Include="exercises\Chapter3\chapter3_exercise9.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="exercises\Chapter4\chapter4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="exercises\Chapter4\chapter4_exercise1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="exercises\Chapter4\chapter4_exercise2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="exercises\Chapter4\chapter4_exercise3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="exercises\Chapter4\chapter4_exercise4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="exercises\Chapter4\chapter4_exercise5.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="exercises\Chapter4\chapter4_exercise6.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="exercises\Chapter4\chapter4_exercise7.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="exercises\Chapter4\chapter4_exercise8.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="exercises\Chapter4\chapter4_exercise9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="exercises\Chapter4\chapter4_exercise10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="exercises\Chapter4\chapter4_exercise11.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="exercises\Chapter4\chapter4_exercise12.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="exercises\Chapter2\chapter2_menu.cpp">
@@ -174,6 +213,45 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="exercises\Chapter3\chapter3_exercise9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exercises\Chapter4\chapter4_exercise1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exercises\Chapter4\chapter4_exercise2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exercises\Chapter4\chapter4_exercise3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exercises\Chapter4\chapter4_exercise4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exercises\Chapter4\chapter4_exercise5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exercises\Chapter4\chapter4_exercise6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exercises\Chapter4\chapter4_exercise7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exercises\Chapter4\chapter4_exercise8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exercises\Chapter4\chapter4_exercise9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exercises\Chapter4\chapter4_exercise10.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exercises\Chapter4\chapter4_exercise11.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exercises\Chapter4\chapter4_exercise12.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exercises\Chapter4\chapter4_menu.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

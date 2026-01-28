@@ -41,7 +41,7 @@ void chapter6_exercise2() {
     cout << "Press ESC to exit\n";
 
     while (true) {
-        choice = getche();
+        choice = _getche();
 
         if (choice == 'p') {
             booth.payingCar();

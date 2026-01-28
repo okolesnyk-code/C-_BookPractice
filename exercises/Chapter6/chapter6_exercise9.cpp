@@ -4,14 +4,14 @@
 using namespace std;
 
 // Class representing a fraction
-class Fraction {
+class Fraction_exercise9 {
 private:
     int numerator;   // Numerator of the fraction
     int denominator; // Denominator of the fraction
 
 public:
     // Default constructor initializes fraction to 0/1
-    Fraction() : numerator(0), denominator(1) {}
+    Fraction_exercise9() : numerator(0), denominator(1) {}
 
     // Method to input fraction in form n/d
     void getFraction() {
@@ -32,8 +32,8 @@ public:
     }
 
     // Method to add two fractions and return the result
-    Fraction add(const Fraction& other) const {
-        Fraction result;
+    Fraction_exercise9 add(const Fraction_exercise9& other) const {
+        Fraction_exercise9 result;
         result.numerator = numerator * other.denominator + other.numerator * denominator;
         result.denominator = denominator * other.denominator;
         return result;
@@ -44,7 +44,7 @@ void chapter6_exercise9() {
     char choice;
 
     do {
-        Fraction f1, f2, sum;
+        Fraction_exercise9 f1, f2, sum;
 
         // Input two fractions
         f1.getFraction();

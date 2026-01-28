@@ -179,6 +179,19 @@
     <ClInclude Include="exercises\Chapter5\chapter5_exercise7.h" />
     <ClInclude Include="exercises\Chapter5\chapter5_exercise8.h" />
     <ClInclude Include="exercises\Chapter5\chapter5_exercise9.h" />
+    <ClInclude Include="exercises\Chapter6\chapter6.h" />
+    <ClInclude Include="exercises\Chapter6\chapter6_exercise1.h" />
+    <ClInclude Include="exercises\Chapter6\chapter6_exercise10.h" />
+    <ClInclude Include="exercises\Chapter6\chapter6_exercise11.h" />
+    <ClInclude Include="exercises\Chapter6\chapter6_exercise12.h" />
+    <ClInclude Include="exercises\Chapter6\chapter6_exercise2.h" />
+    <ClInclude Include="exercises\Chapter6\chapter6_exercise3.h" />
+    <ClInclude Include="exercises\Chapter6\chapter6_exercise4.h" />
+    <ClInclude Include="exercises\Chapter6\chapter6_exercise5.h" />
+    <ClInclude Include="exercises\Chapter6\chapter6_exercise6.h" />
+    <ClInclude Include="exercises\Chapter6\chapter6_exercise7.h" />
+    <ClInclude Include="exercises\Chapter6\chapter6_exercise8.h" />
+    <ClInclude Include="exercises\Chapter6\chapter6_exercise9.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="exercises\Chapter2\chapter2_menu.cpp" />
@@ -233,6 +246,19 @@
     <ClCompile Include="exercises\Chapter5\chapter5_exercise8.cpp" />
     <ClCompile Include="exercises\Chapter5\chapter5_exercise9.cpp" />
     <ClCompile Include="exercises\Chapter5\chapter5_menu.cpp" />
+    <ClCompile Include="exercises\Chapter6\chapter6_exercise1.cpp" />
+    <ClCompile Include="exercises\Chapter6\chapter6_exercise10.cpp" />
+    <ClCompile Include="exercises\Chapter6\chapter6_exercise11.cpp" />
+    <ClCompile Include="exercises\Chapter6\chapter6_exercise12.cpp" />
+    <ClCompile Include="exercises\Chapter6\chapter6_exercise2.cpp" />
+    <ClCompile Include="exercises\Chapter6\chapter6_exercise3.cpp" />
+    <ClCompile Include="exercises\Chapter6\chapter6_exercise4.cpp" />
+    <ClCompile Include="exercises\Chapter6\chapter6_exercise5.cpp" />
+    <ClCompile Include="exercises\Chapter6\chapter6_exercise6.cpp" />
+    <ClCompile Include="exercises\Chapter6\chapter6_exercise7.cpp" />
+    <ClCompile Include="exercises\Chapter6\chapter6_exercise8.cpp" />
+    <ClCompile Include="exercises\Chapter6\chapter6_exercise9.cpp" />
+    <ClCompile Include="exercises\Chapter6\chapter6_menu.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>

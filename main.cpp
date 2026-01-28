@@ -5,6 +5,7 @@
 #include "exercises/Chapter3/chapter3.h"
 #include "exercises/Chapter4/chapter4.h"
 #include "exercises/Chapter5/chapter5.h"
+#include "exercises/Chapter6/chapter6.h"
 // ... далі підключати інші глави до chapter16.h
 
 int main()
@@ -20,6 +21,7 @@ int main()
         std::cout << "3 - Chapter 3\n";
         std::cout << "4 - Chapter 4\n";
         std::cout << "5 - Chapter 5\n";
+        std::cout << "6 - Chapter 6\n";
         //std::cout << "3 - Chapter 3\n";
         // ... додати до 16 глави
         std::cout << "0 - Exit\n";
@@ -33,6 +35,7 @@ int main()
         case 3: chapter3_menu(); break;
         case 4: chapter4_menu(); break;
         case 5: chapter5_menu(); break;
+        case 6: chapter6_menu(); break;
         //case 3: chapter3_menu(); break;
             // ... додати до 16 глави
         case 0:

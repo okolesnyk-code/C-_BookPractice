@@ -4,7 +4,7 @@
 using namespace std;
 
 // Class representing a date
-class Date {
+class Date_exercise5 {
 private:
     int month;
     int day;
@@ -12,10 +12,10 @@ private:
 
 public:
     // Default constructor initializes date to 0/0/0
-    Date() : month(0), day(0), year(0) {}
+    Date_exercise5() : month(0), day(0), year(0) {}
 
     // Constructor with given values
-    Date(int m, int d, int y) : month(m), day(d), year(y) {}
+    Date_exercise5(int m, int d, int y) : month(m), day(d), year(y) {}
 
     // Method to input date in format MM/DD/YY
     void getdate() {
@@ -35,7 +35,7 @@ public:
 
 void chapter6_exercise5() {
     // Create a date object
-    Date d1;
+    Date_exercise5 d1;
 
     // Input date from user
     d1.getdate();
